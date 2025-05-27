@@ -1,3 +1,4 @@
+<h1 align="center">👨‍💻 Yasith Perera – Building the Future, One Line of Code at a Time</h1>
 <h3 align="center">Aspiring Full Stack Developer | Passionate about Web & Software Development</h3>
 
 <h3 align="left">Connect with me:</h3>
