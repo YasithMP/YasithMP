@@ -8,7 +8,7 @@
   ### About me:
   
   <p>Hello there! My name is Yasith Perera.</p>
-  <p>I'm an aspiring Full Stack Developer.</p>
+  <p>I'm an aspiring Software Engineer.</p>
   <p>Currently studying Computer Science at University of Westminster.</p>
   <p>Passionate about coding, learning, and building cool stuff!</p>
 
