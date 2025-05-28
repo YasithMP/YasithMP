@@ -31,7 +31,7 @@
   
   <hr />
   
-  ### Tools and technologies that i'm currently studying and working with:
+  ### Languages and Tools:
   <p align="left">
     <!-- Programming Languages -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
