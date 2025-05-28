@@ -82,4 +82,4 @@
   
   <hr />
   
-  <p align="rigth"> <img src="https://komarev.com/ghpvc/?username=yasithmp" alt="Profile views" /></p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasithmp&label=Profile%20views&color=a80b0b&style=flat" alt="yasithmp" /> </p>
