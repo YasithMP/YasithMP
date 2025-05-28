@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=808080&size=45&center=true&vCenter=true&width=450&height=54&lines=<Hello+from+Yasith+/>)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=808080&size=45&center=true&vCenter=true&width=450&height=54&lines=Hi!+I'm+Yasith!)
 <a href="https://www.linkedin.com/in/yasithmp/" target="_blank">
   <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="48px" height="48px"></a><br/>
   <br />
