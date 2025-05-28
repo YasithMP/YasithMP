@@ -24,9 +24,9 @@
   <hr />
   -->
   <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasithmp&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="yasithmp" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasithmp&show_icons=true&theme=highcontrast&locale=en" alt="yasithmp" /> <br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasithmp&theme=highcontrast" alt="yasithmp" />
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasithmp&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="yasithmp" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yasithmp&show_icons=true&theme=highcontrast&locale=en" alt="yasithmp" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasithmp&theme=highcontrast" alt="yasithmp" /></p>
   </div>
   
   <hr />
