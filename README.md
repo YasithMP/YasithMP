@@ -26,7 +26,7 @@
   <div>
     <p><img align="left" src="https://github-readme-stats-yasithmps-projects.vercel.app/api/top-langs?username=yasithmp&show_icons=true&theme=radical&langs_count=7&locale=en&layout=compact&v=2" alt="yasithmp"></p> 
     <p><img align="center" src="https://github-readme-stats-yasithmps-projects.vercel.app/api?username=yasithmp&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=2"></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasithmp&theme=radical&v=2" alt="yasithmp" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasithmp&theme=radical" alt="yasithmp" /></p>
   </div>
   
   <hr />
