@@ -24,8 +24,11 @@
   <hr />
   -->
   <div>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=yasithmp&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasithmp&layout=compact&langs_count=7&theme=radical">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasithmp&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="yasithmp" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasithmp&show_icons=true&theme=highcontrast&locale=en" alt="yasithmp" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasithmp&theme=highcontrast" alt="yasithmp" /></p>
   </div>
   
   <hr />
