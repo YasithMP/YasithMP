@@ -8,9 +8,9 @@
   ### About me:
   
   <p>Hello there! My name is Yasith Perera.</p>
-  <p>I'm an aspiring Software Engineer.</p>
-  <p>Currently studying Computer Science at University of Westminster.</p>
-  <p>Passionate about coding, learning, and building cool stuff!</p>
+  <p>Computer Science student at the University of Westminster.</p>
+  <p>Aspiring Software Engineer with a passion for Machine Learning and Deep Learning.</p>
+  <p>Focused on learning, problem-solving, and building intelligent systems.</p>
 
   <hr />
   <!--
