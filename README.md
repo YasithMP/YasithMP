@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=808080&size=45&center=true&vCenter=true&width=450&height=54&lines=Hi!+I'm+Yasith!)
 <a href="https://www.linkedin.com/in/yasithmp/" target="_blank">
-  <img align="right" src="http://www.w3.org/2000/svg" width="48px" height="48px"></a><br/>
+  <img align="right" src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" width="48px" height="48px"></a><br/>
   <br />
   
   <hr />
