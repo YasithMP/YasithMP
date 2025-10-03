@@ -40,5 +40,13 @@
   </p>
   
   <hr />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasithMP/YasithMP/refs/heads/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YasithMP/YasithMP/refs/heads/output/github-snake.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YasithMP/YasithMP/refs/heads/output/github-snake.svg">
+  </picture>
+  
+  <hr />
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasithmp&label=Profile%20views&color=a80b0b&style=flat" alt="yasithmp" /> </p>
