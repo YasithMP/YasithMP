@@ -34,7 +34,7 @@
   ### Languages and Tools:
   
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,sqlite,arduino,pandas,numpy,tensorflow,git,github,linux,figma,vscode,idea,pycharm"/>
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,sqlite,arduino,tensorflow,git,github,linux,figma,vscode,idea,pycharm"/>
   </p>
 
   <hr />
