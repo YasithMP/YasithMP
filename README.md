@@ -1,4 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=808080&size=45&center=true&vCenter=true&width=450&height=54&lines=Hi!+I'm+Yasith!)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasithMP/YasithMP/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YasithMP/YasithMP/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YasithMP/YasithMP/output/pacman-contribution-graph.svg">
+</picture>
+
 <a href="https://www.linkedin.com/in/yasithmp/" target="_blank">
   <img align="right" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" width="48px" height="48px"></a><br/>
   <br />
