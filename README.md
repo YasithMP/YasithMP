@@ -18,8 +18,6 @@
   <p>Focused on learning, problem-solving, and building intelligent systems.</p>
 
   <hr />
-  <!--
-  ### Workspace:
   
   <p>
   <img src="https://img.shields.io/badge/AMD-Ryzen_7_7800x3d-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
@@ -41,10 +39,6 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,sqlite,arduino,tensorflow,git,github,linux,figma,vscode,idea,pycharm"/>
   </p>
-
-  <hr />
-  
-  <p>Inspired by <a href="https://github.com/mcamillosf">mcamillosf</a></p>
   
   <hr />
   
